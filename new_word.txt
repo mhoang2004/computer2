@@ -1,0 +1,14 @@
+encounter: bắt gặp
+term: thuat ngu
+bounds: gioi han, ex: [1, 10]
+oppose: trai nguoc
+
+consistent: nhất quán
+
+cultivate: cày cấy
+
+context: ngu canh, hoan canh 
+terminate: cham dut 
+
+notation: ky hieu
+relative: liên quan đến
