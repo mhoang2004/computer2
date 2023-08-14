@@ -12,3 +12,10 @@ terminate: cham dut
 
 notation: ky hieu
 relative: liên quan đến
+
+sắp tới nếu mà muốn học để có công việc đi làm thì phải
+* CÀY KHÓA NODEJS
+* SONG SONG LÀM PROJECT FONTEND VỚI REACT
+* HỌC TIẾNG ANH, CHÁN THÌ LÀM PYTHON HỌC SƠ SO
+
+
